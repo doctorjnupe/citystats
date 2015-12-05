@@ -1,7 +1,7 @@
 {
   "name": "citystats",
   "description": "Seed various city stats in to AT&T M2X.",
-  "repository": "https://github.com/kristinpeterson/citystats",
+  "repository": "https://github.com/doctorjnupe/citystats",
   "keywords": ["python", "m2x"],
   "addons": ["m2x"]
 }
