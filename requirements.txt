@@ -1,4 +1,4 @@
-m2x
+git+git://github.com/attm2x/m2x-python.git
 geopy==1.10.0
 python-forecastio==1.3.2
 APScheduler==3.0.0
